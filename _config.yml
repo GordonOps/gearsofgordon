@@ -1,7 +1,7 @@
 ### your site title here
 
 title: Gears of Gordon
-description: Personal site of Gordon Geringas
+description: Cloud Engineering | Gender Equity | Youth Sport
 
 baseurl: /gearsofgordon #name of GitHub repository
 url: https://gearsofgordon.com #custom url to be used instead of GitHub repository
@@ -16,7 +16,7 @@ paginate_path: /blog/page:num/
 linkedin: https://linkedin.com/in/gordongeringas
 github: https://github.com/GordonOps
 
-#build site
+#build site filename
 destination: public
 
 # Markdown

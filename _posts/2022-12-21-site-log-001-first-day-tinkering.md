@@ -1,10 +1,9 @@
 ---
 layout: post
-title: Site Log 001 First Day Tinkering
+title: Site Log 001
 date: 2022-12-21 17:52 -0500
 ---
-##Site Log 001
-###First Day Tinkering
+## First Day Tinkering
 
 Welcome to Gears of Gordon where I build a static page as a Personal Blog and a landing page to get in touch with me and view my projects. I have been inspired to go on this journey by one of my lecturers. Creating and hosting this is partly a portfolio or example of my abilities.  I will share links to all the guides and tools I've been using at the end of this post.  
 
@@ -18,9 +17,9 @@ The most satisfying event by far has been to preview my site in a browser with m
 
 My next milestone will be to clean up this repo deleting the demonstration files. Build the site into files that can really be hosted and write another Log about the experience. Till next time ~ciao  
 
-######Useful links!
-*[Course: Ray's _Learning Git and Github_](https://www.linkedin.com/learning/learning-git-and-github-14213624)
-*[Course: Nate's _Learning Static Site Building...with Jekyll_](https://www.linkedin.com/learning/learning-static-site-building-with-jekyll/create-a-new-jekyll-site)
-*[Install Jekyll](https://jekyllrb.com/docs/installation/)
-*[Posh-Git for Powershell](https://git-scm.com/book/en/v2/Appendix-A%3A-Git-in-Other-Environments-Git-in-PowerShell)
-*[Theme: gradfolio](https://github.com/jitinnair1/gradfolio)
+###### Useful links!
+* [Course: Ray's _Learning Git and Github_](https://www.linkedin.com/learning/learning-git-and-github-14213624)
+* [Course: Nate's _Learning Static Site Building...with Jekyll_](https://www.linkedin.com/learning/learning-static-site-building-with-jekyll/create-a-new-jekyll-site)
+* [Install Jekyll](https://jekyllrb.com/docs/installation/)
+* [Posh-Git for Powershell](https://git-scm.com/book/en/v2/Appendix-A%3A-Git-in-Other-Environments-Git-in-PowerShell)
+* [Theme: gradfolio](https://github.com/jitinnair1/gradfolio)
