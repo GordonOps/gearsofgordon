@@ -16,6 +16,8 @@ paginate_path: /blog/page:num/
 linkedin: https://linkedin.com/in/gordongeringas
 github: https://github.com/GordonOps
 
+#build site
+destination: public
 
 # Markdown
 highlighter: rouge
