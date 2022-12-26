@@ -1,28 +1,23 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Gears of Gordon
+description: Cloud Engineering | Gender Equity | Youth Sport
 
-baseurl: /gradfolio #name of GitHub repository
-url: "" #custom url to be used instead of GitHub repository
-email: #
+baseurl: /gearsofgordon/ #name of GitHub repository
+url: https://gearsofgordon.com #custom url to be used instead of GitHub repository
+email: ggu9d2hlo@mozmail.com
 
 # Pagination
-paginate: 4
+paginate: 2
 permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-twitter: "#"
-linkedin: "#"
-stackoverflow: "#"
-github: "#"
-researchgate: "#"
-orcid: "#"
-quora: "#"
-instagram: "#"
-facebook: "#"
+linkedin: gordongeringas
+github: GordonOps
 
+#build site filename
+destination: public
 
 # Markdown
 highlighter: rouge
@@ -48,12 +43,9 @@ collections:
     output: true
     permalink: /projects/:name/
     order:
-      - shortProject.md
-      - longerProjectTitle.md
-      - redirect.md
-      - project4.md
-      - project5.md
-      - project6.md
+      - gearsofgordon.md
+      - fencinghubacademy.md
+      - weddingbook.md
 
 sass:
   sass_dir: /assets/css/_sass

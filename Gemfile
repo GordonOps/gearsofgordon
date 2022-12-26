@@ -10,3 +10,6 @@ group :jekyll_plugins do
 end
 
 gem "webrick", "~> 1.7"
+
+#new post in terminal: cmd
+gem "jekyll-compose", group: [:jekyll_plugins]

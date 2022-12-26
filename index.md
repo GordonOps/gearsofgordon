@@ -7,15 +7,34 @@ profile:
 published: true
 ---
 
-[Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
+**SITE INDEX**  
+Welcome to the Gears of Gordon Home page. In the Projects page you'll find a portfolio of my works in progress. The Blog page contains posts regarding my interests. The Archive page lists all the blog posts chronologically. Home holds this site index, a short CV, and a contact box (spot the speech bubble!).  
 
-If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
+## CV  
+***
+### VOLUNTEER  
+**FENCING CANADA**  
+  : _Gender Equity Committee Member_  
+February 2022-Present  
+Meeting once a month, participated in gender equity policy research, funding research, audit, and program planning.  
 
-The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts.
+***
+### EDUCATION  
+**UNIVERSITY OF TORONTO**  
+  : _HBSc in Physics, and minors in Math, and [HPS](https://en.wikipedia.org/wiki/History_and_philosophy_of_science)_  
+June 2016, Toronto ON  
+Geophysics Field Study, Groups Rings and Field, Physics of the Earth, Non-linear Systems, Calculus on Complex Variables, Electronics Laboratory, Philosophy of Science, History of Technology, Studies of Gender in the History of Science.  
 
-PS: If you liked the theme, do star it on GitHub!
+**GEORGE BROWN COLLEGE**  
+  : _Post Graduate Studies in Cloud Computing Technologies_  
+April 2023, Toronto ON  
+Fall: Management, deployment, and configuration of networks, Windows clients, and Microsoft E5 Tenants. Spring: AWS and Azure.  
 
-### Also, check out:
+***
+### CERTIFICATION  
+**NATIONAL COACHING CERTIFICATION PROGRAM**  
+  : _Competition Introduction Certified_  
+October 2022, Toronto ON  
+Coach Evaluations, CFF Fencing Workshops, Making Ethical Decisions, First Responder CPR and AED, [and more](http://fencing.ca/wp-content/uploads/CFF_Competition-Introduction-Coach-Pathway-EN.pdf).  
 
-- [autoCV](https://github.com/jitinnair1/autocv) - a LaTeX template that builds and deploys the CV using GitHub Actions, so you will always have a ready link for your latest CV
-- [Tail](https://github.com/jitinnair1/tail) - a minimal, quick-setup template for a blog
+***
