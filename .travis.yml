@@ -4,13 +4,12 @@ language: ruby
 rvm:
   - 2.7.1
 before_script:
-- gem install bundler -v 2.3.22
 - pip install --user awscli
 - rm -rf public
 - bundle exec jekyll build
 script:
 - aws s3 sync public/ s3://gearsofgordon.com --acl public-read --delete
-- aws cloudfront create invalidation --distribution-id E2HDETPGQ8E5WT --paths '/*'
+- aws cloudfront create-invalidation --distribution-id E2HDETPGQ8E5WT --paths '/*'
 branches:
  only:
  - master
