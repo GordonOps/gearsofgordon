@@ -1,4 +1,4 @@
-### your site title here
+### Gears of Gordon
 
 title: Gears of Gordon
 description: Cloud Engineering | Gender Equity | Youth Sport
@@ -8,7 +8,7 @@ url: https://gearsofgordon.com #custom url to be used instead of GitHub reposito
 email: ggu9d2hlo@mozmail.com
 
 # Pagination
-paginate: 2
+paginate: 3
 permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
