@@ -10,6 +10,7 @@ before_script:
 script:
 - aws s3 sync public/ s3://gearsofgordon.com --acl public-read --delete
 - aws cloudfront create-invalidation --distribution-id E2HDETPGQ8E5WT --paths '/*'
+
 branches:
  only:
  - master
