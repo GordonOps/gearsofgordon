@@ -3,7 +3,7 @@
 title: Gears of Gordon
 description: Cloud Engineering | Gender Equity | Youth Sport
 
-baseurl: gearsofgordon #name of GitHub repository
+baseurl: #name of GitHub repository
 url:  gearsofgordon.com #custom url to be used instead of GitHub repository
 email: ggu9d2hlo@mozmail.com
 
